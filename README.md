@@ -5,7 +5,7 @@ listView mvc
 
 m ...... mode ...... javaBean
 
-v ...... view ...... listview
+v ...... view ...... ListView
 
 c ...... control ...... adapter
 
